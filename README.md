@@ -204,4 +204,4 @@ MyConnection Server is offered as a complete free version with all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-10 21:30:12 UTC
+**Last updated:** 2026-11-11 01:31:51 UTC
